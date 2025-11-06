@@ -2,7 +2,7 @@
 
 
 ## Description
-E-ZPass Connecticut is a front-end demo app designed to simulate a small administrative dashboard for managing E-ZPass-related transactions, receipts, and simple expense tracking. The project demonstrates a lightweight React structure with modular components (Header, ExpenseForm, ExpenseList, Receipt) to illustrate how one might build an interface to display toll transactions, generate simple receipts, and filter or categorize expenses. This repository is intended for developers learning how to structure a React project, write clean components with separated CSS, and integrate basic client-side state management. It intentionally avoids back-end dependencies so it’s easy to clone and run locally for experimentation, UI testing, or as a starting point for a more complete E-ZPass management system.
+<a href="https://www.ez-passct.com">E-ZPass Connecticut</a> is a front-end demo app designed to simulate a small administrative dashboard for managing E-ZPass-related transactions, receipts, and simple expense tracking. The project demonstrates a lightweight React structure with modular components (Header, ExpenseForm, ExpenseList, Receipt) to illustrate how one might build an interface to display toll transactions, generate simple receipts, and filter or categorize expenses. This repository is intended for developers learning how to structure a React project, write clean components with separated CSS, and integrate basic client-side state management. It intentionally avoids back-end dependencies so it’s easy to clone and run locally for experimentation, UI testing, or as a starting point for a more complete E-ZPass management system.
 
 
 ## Features
